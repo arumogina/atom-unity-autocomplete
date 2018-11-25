@@ -1,4 +1,9 @@
 # package-unity-autocomplete package
 
 Atomのunityの入力保管のパッケージ
-辞書はhttps://github.com/arumogina/unity-scrapingで作成
+辞書は
+https://github.com/arumogina/unity-scraping
+で作成
+
+autocomplete package for unity
+dictionary has been made by https://github.com/arumogina/unity-scraping
