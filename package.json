@@ -1,11 +1,11 @@
 {
   "name": "unity-autocomplete",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "autocomplete for unity",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/unity-autocomplete",
+  "repository": "https://github.com/arumogina/atom-unity-autocomplete",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
