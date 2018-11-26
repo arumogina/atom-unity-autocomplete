@@ -5,5 +5,5 @@ Atomのunityの入力保管のパッケージ
 https://github.com/arumogina/unity-scraping
 で作成
 
-autocomplete package for unity
+autocomplete package for unity  
 dictionary has been made by https://github.com/arumogina/unity-scraping
